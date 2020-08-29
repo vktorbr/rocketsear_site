@@ -1,6 +1,6 @@
 module.exports = [
     {
-        id: '',
+        id: 'copyright',
         image_url: 'https://storage.googleapis.com/golden-wind/bootcamp-launchbase/assets/starter.svg',
         title: 'Starter',
         modules: '5 módulos',
